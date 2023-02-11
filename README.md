@@ -1,7 +1,7 @@
 # Rui Gao
 
 ![Dendoink's github stats](https://github-readme-stats.vercel.app/api?username=RuiGAO512&show_icons=true&theme=radical&count_private=true)
-
+![](https://komarev.com/ghpvc/?username=RuiGAO512)
 
 ## Languages
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="c++" /></code>
@@ -12,8 +12,6 @@
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="java" /></code>
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RuiGAO512&layout=compact&langs_count=6) -->
-
-![](https://komarev.com/ghpvc/?username=RuiGAO512)
 
 ## About Me
 
