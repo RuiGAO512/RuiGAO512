@@ -2,6 +2,8 @@
 
 ![Dendoink's github stats](https://github-readme-stats.vercel.app/api?username=RuiGAO512&show_icons=true&theme=radical&count_private=true)
 
+
+## Languages
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="c++" /></code>
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="java" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" /></code>
@@ -9,8 +11,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" /></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="java" /></code>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuiGAO512&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RuiGAO512&layout=compact&langs_count=6)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RuiGAO512&layout=compact&langs_count=6) -->
 
 ![](https://komarev.com/ghpvc/?username=RuiGAO512)
 
@@ -30,4 +31,5 @@
 ## Education
 
 - One year Data Science and Artificial Intelligence in Maastricht University.
+- Computer Science in vrije universiteit amsterdam until now
 
