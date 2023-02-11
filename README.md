@@ -1,6 +1,16 @@
 # Rui Gao
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="50" height="50"> <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" width="50" height="50"> <img src="https://www.freeiconspng.com/thumbs/html5-icon/html5-icon-1.png" width="50" height="50"> <img src="https://toppng.com/uploads/preview/html-css-js-icons-11563328364gmstz4ubs9.png" width="50" height="50"> <img src="https://toppng.com/uploads/preview/c-programming-icon-c-programming-language-logo-11562945679duaxtn3yq0.png" width="50" height="50"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="50" height="50">
+![Dendoink's github stats](https://github-readme-stats.vercel.app/api?username=RuiGAO512&show_icons=true&theme=radical&count_private=true)
+
+<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="c++" /></code>
+<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="java" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" /></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="java" /></code>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuiGAO512&langs_count=6)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RuiGAO512&layout=compact&langs_count=6)
 
 ![](https://komarev.com/ghpvc/?username=RuiGAO512)
 
@@ -10,7 +20,7 @@
 
 ## Skills
 
-- Examples: C++, Java, HTML, CSS, JavaScript, C.
+- C++, Java, HTML, CSS, JavaScript, C.
 
 ## Projects
 
