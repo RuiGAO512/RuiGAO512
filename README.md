@@ -19,7 +19,7 @@
 
 ## About Me
 
-1st year Computer Science student in vrije universiteit amsterdam.
+2nd year Computer Science student in vrije universiteit amsterdam.
 
 ## Skills
 
