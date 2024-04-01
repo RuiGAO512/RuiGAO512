@@ -19,7 +19,7 @@
 
 ## About Me
 
-2nd year Computer Science student in vrije universiteit amsterdam.
+2nd year Computer Science student at Vrije Universiteit Amsterdam.
 
 ## Skills
 
@@ -29,9 +29,11 @@
 
 - Gomoku Game
 - Maze Generator
+- Real-Time Sign Language Translator
+- Language learning flashcard (Similar to Duolingo)
 
 ## Education
 
-- One year Data Science and Artificial Intelligence in Maastricht University.
-- Computer Science in vrije universiteit amsterdam until now
+- One year of Data Science and Artificial Intelligence at Maastricht University.
+- Computer Science in Vrije Universiteit Amsterdam until now
 
