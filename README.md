@@ -12,18 +12,20 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" /></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="java" /></code>
-
+<code><img height="20" src="https://p7.hiclipart.com/preview/822/15/746/scala-programming-language-type-safety-javascript-others.jpg" alt="Scala" /></code>
+<code><img height="20" src="https://i.pngimg.me/thumb/f/720/compngwingzoupl.jpg" alt="SQL" /></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/5421823/62779159-4cf76880-baaa-11e9-8318-e20a1aaa913a.png" alt="Assembly" /></code>
 
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RuiGAO512&layout=compact&langs_count=6) -->
 
 ## About Me
 
-2nd year Computer Science student at Vrije Universiteit Amsterdam.
+3rd year Computer Science student at Vrije Universiteit Amsterdam.
 
 ## Skills
 
-- C++, Java, HTML, CSS, JavaScript, C, python, python socket
+- C++, Java, HTML, CSS, JavaScript, C, Scala, SQL, python, python socket, Assembly(x86-64)
 
 ## Projects
 
