@@ -13,7 +13,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" /></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="java" /></code>
 <code><img height="20" src="https://p7.hiclipart.com/preview/822/15/746/scala-programming-language-type-safety-javascript-others.jpg" alt="Scala" /></code>
-<code><img height="20" src="https://i.pngimg.me/thumb/f/720/compngwingzoupl.jpg" alt="SQL" /></code>
+<code><img height="20" src="https://e7.pngegg.com/pngimages/170/924/png-clipart-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-thumbnail.png" alt="SQL" /></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/5421823/62779159-4cf76880-baaa-11e9-8318-e20a1aaa913a.png" alt="Assembly" /></code>
 
 
