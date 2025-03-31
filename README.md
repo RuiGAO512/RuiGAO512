@@ -1,6 +1,16 @@
 # Rui Gao
 
-![Dendoink's github stats](https://github-readme-stats.vercel.app/api?username=RuiGAO512&show_icons=true&theme=radical&count_private=true)
+<!--![Dendoink's github stats](https://github-readme-stats.vercel.app/api?username=RuiGAO512&show_icons=true&theme=radical&count_private=true)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=truonghm&layout=compact&theme=radical&cache_seconds=86400&hide=html,css,jupyter%20notebook)](https://github.com/truonghm/truonghm)
+
+##
+
+<div>
+  <a href="https://www.linkedin.com/in/ruigaoo/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+</div>
+
 
 ![](https://komarev.com/ghpvc/?username=RuiGAO512)
 
